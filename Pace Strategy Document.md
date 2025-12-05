@@ -29,7 +29,7 @@ Some of the resources required are hardware/software needs like:
 
 #### Deliverables
 * Project Plan to be sent to stakeholders
-* The PACE Strategy Document to be shared with the team to stream workflows
+* The PACE Strategy Document to be shared with the team to streamline workflows
 * The prepped dataset free from errors and proper structure using categorisation, aggregation methods (using EDA) etc.
 * Regression analysis, appropriate machine learning model and data visualisation to gather insights
 
