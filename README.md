@@ -39,12 +39,4 @@ The TLC team members are program managers who oversee operations at the organiza
 
 To complete this project we will use the PACE model to streamline workflows (Plan, Analyse, Construct, Execute)
 
-### **PLAN**
 
-We will put forth a PACE Strategy Document and a Project Proposal
-
-### **ANALYSE**
-
-### **CONSTRUCT**
-
-### **EXECUTE**
