@@ -1,4 +1,4 @@
-# The Automatidata Project Proposal
+# The New York City TLC Project Proposal
 
 ## Milestone 1
 
